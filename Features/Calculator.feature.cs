@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace ReqnrollProject.Features
+namespace ReqnrollCalculator.Features
 {
     using Reqnroll;
     using System;
